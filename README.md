@@ -6,8 +6,8 @@ Software developer
 
 Computer science graduate from the University of Iceland
 
-* 🌍  Iceland
-* ✉️  Email: [natidemisket@gmail.com](mailto:natidemisket@gmail.com)
+* 🌍  I'm based in Iceland
+* ✉️  You can contact me at [natidemisket@gmail.com](mailto:natidemisket@gmail.com)
 
 ### Skills
 
@@ -31,7 +31,7 @@ Computer science graduate from the University of Iceland
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/natanel-demissew-5b5b44207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
