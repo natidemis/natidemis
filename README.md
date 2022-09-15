@@ -1,4 +1,4 @@
-Hi 👋 My name is Natanel Demissew Ketema
+Natanel Demissew Ketema
 ========================================
 
 Software developer
@@ -6,7 +6,7 @@ Software developer
 
 Computer science graduate from the University of Iceland
 
-* 🌍  I'm based in Iceland
+* 🌍  Iceland
 * ✉️  You can contact me at [natidemisket@gmail.com](mailto:natidemisket@gmail.com)
 
 ### Skills
