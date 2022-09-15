@@ -33,8 +33,6 @@ Computer science graduate from the University of Iceland
 
 <p align="left"> <a href="https://www.github.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/natidemis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/natanel-demissew-5b5b44207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
 <b>GitHub Stats</b>
 
 <a href="http://www.github.com/natidemis"><img src="https://github-readme-stats.vercel.app/api?username=natidemis&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="natidemis's GitHub stats" /></a>
