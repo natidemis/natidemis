@@ -7,7 +7,7 @@ Software developer
 Computer science graduate from the University of Iceland
 
 * 🌍  Iceland
-* ✉️  You can contact me at [natidemisket@gmail.com](mailto:natidemisket@gmail.com)
+* ✉️  [natidemisket@gmail.com](mailto:natidemisket@gmail.com)
 
 ### Skills
 
